@@ -1,0 +1,4 @@
+repository "permanent device project/permanent device project@14568816233598@cloud"
+  path "/"
+    br "/main"
+    co "/main"
