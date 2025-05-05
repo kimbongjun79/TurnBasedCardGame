@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Gentleland/SteampunkUI/Scenes/Demos/Demo Buttons.unity
+- path: Assets/Scenes/Deck_Building_Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
