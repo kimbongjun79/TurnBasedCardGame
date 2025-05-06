@@ -333,11 +333,11 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Gentleland/SteampunkUI/Scripts/BarsFillAnimations.cs"
-"Assets/Gentleland/SteampunkUI/Scripts/CharacterStat.cs"
-"Assets/Gentleland/SteampunkUI/Scripts/ClockSlider.cs"
-"Assets/Gentleland/SteampunkUI/Scripts/CursorSelector.cs"
-"Assets/Gentleland/SteampunkUI/Scripts/KeyFieldUnSelect.cs"
+"Assets/Gentleland_spas/SteampunkUI/Scripts/BarsFillAnimations.cs"
+"Assets/Gentleland_spas/SteampunkUI/Scripts/CharacterStat.cs"
+"Assets/Gentleland_spas/SteampunkUI/Scripts/ClockSlider.cs"
+"Assets/Gentleland_spas/SteampunkUI/Scripts/CursorSelector.cs"
+"Assets/Gentleland_spas/SteampunkUI/Scripts/KeyFieldUnSelect.cs"
 -langversion:9.0
 /deterministic
 /optimize+

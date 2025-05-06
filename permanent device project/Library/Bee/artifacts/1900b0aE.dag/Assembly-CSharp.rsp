@@ -345,7 +345,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Script/TitleSceneController.cs"
+"Assets/Scripts/CardDatabaseSO.cs"
+"Assets/Scripts/CardDataSO.cs"
+"Assets/Scripts/CardGridItemUI.cs"
+"Assets/Scripts/CardInfoUI.cs"
+"Assets/Scripts/DeckBuildingSceneController.cs"
+"Assets/Scripts/DeckListItemUI.cs"
+"Assets/Scripts/TitleSceneController.cs"
 -langversion:9.0
 /deterministic
 /optimize+
