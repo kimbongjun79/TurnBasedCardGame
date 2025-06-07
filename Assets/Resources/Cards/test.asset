@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a0e02fb2045adb4995f9ff03e4c01ea, type: 3}
+  m_Name: test
+  m_EditorClassIdentifier: 
+  cardName: 123
+  cardClass: 0
+  cardType: 01000000
+  cardSprite: {fileID: -8645728142802330473, guid: 7d4d9de5ee211b1428cce6ffaa3481ae, type: 3}
+  description: sdjlhfksj
+  durability: 0
+  damage: 0
+  prefab: {fileID: 1808018432986172, guid: 2d936ca8cfcf8d64ba06f3d8bd183c30, type: 3}
+  range: 0
+  attackpattern: 0
+  prioirtyTarget: 0
+  CardScore: 1
