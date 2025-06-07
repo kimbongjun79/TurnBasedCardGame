@@ -1,0 +1,23 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class OptionManager : MonoBehaviour
+{
+    private AudioManager audioManager;
+    public bool muteAudio = false;
+
+    void Start()
+    {
+        audioManager = GameManager.Instance.AudioManager;
+    }
+
+    void Update()
+    {
+       
+    }
+
+
+   
+}
