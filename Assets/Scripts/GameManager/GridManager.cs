@@ -61,7 +61,7 @@ public class GridManager : MonoBehaviour
                 {
                     stat.Initialize(cardData);
                 }
-                Debug.Log(cell.CellFull);
+                
                 return true;
             }
                
