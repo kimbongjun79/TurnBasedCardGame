@@ -27,7 +27,7 @@ public class GridCellDisplay : MonoBehaviour
     void OnMouseEnter()
     {
         spriteRenderer.color = highlightColor;
-        Debug.Log(gridCell.CellFull);
+        
         if (!GameManager.Instance.PlayingCard)
         {
             spriteRenderer.color = highlightColor;

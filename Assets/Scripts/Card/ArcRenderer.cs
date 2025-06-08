@@ -27,6 +27,7 @@ public class ArcRenderer : MonoBehaviour
         spacingScale = Screen.width / baseScreenWidth;
     }
 
+    
     void OnEnable()
     {
         spacingScale = Screen.width / baseScreenWidth;

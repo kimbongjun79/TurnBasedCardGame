@@ -849,7 +849,11 @@ namespace AiryUI
             {
                 float t = elapsedTime / animationHideDuration;
 
-                rectTransformComponent.rotation = Quaternion.Euler ( Vector3.Lerp ( Quaternion.ToEulerAngles ( rotation_initial ) , rotateTo , t ) );
+                rectTransformComponent.rotation = Quaternion.Euler(
+                Vector3.Lerp(
+                rotation_initial.eulerAngles, 
+                rotateTo,t));
+
 
                 elapsedTime += DeltaTimeFor_HIDE;
                 yield return null;

@@ -10,8 +10,8 @@ public class CharacterTooltipDisplay : MonoBehaviour
     private RectTransform rectTransform;
     public CanvasGroup canvasGroup;
 
-    [SerializeField] private float lerpFactor = 0.1f;
-    [SerializeField] private float xOffset = 200f;
+    //[SerializeField] private float lerpFactor = 0.1f;
+    //[SerializeField] private float xOffset = 200f;
 
     private Canvas canvas;
 
@@ -25,7 +25,6 @@ public class CharacterTooltipDisplay : MonoBehaviour
 
     public void SetStatsText(CharacterStat stats)
     {
-        Debug.Log("cardName123 " + stats.cardName);
         nameText.text = $"{stats.cardName} Stats";
         cardType.text = string.Join(".", stats.cardType);
         healthText.text = stats.Durability.ToString();

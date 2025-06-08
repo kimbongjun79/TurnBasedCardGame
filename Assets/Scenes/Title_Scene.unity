@@ -1488,7 +1488,7 @@ MonoBehaviour:
   deckBuildingButton: {fileID: 1660097907}
   quitGameButton: {fileID: 892833904}
   settingsButton: {fileID: 1779296558}
-  gamePlaySceneName: Game_Play_Scene
+  gamePlaySceneName: PlayScene
   deckBuildingSceneName: Deck_Building_Scene
 --- !u!1 &1660097905
 GameObject:
